@@ -1,31 +1,10 @@
-# 👋 Hi, I'm Parves Bappi
+# 👋 Hi, I'm Parves Bappi !!
 
 ### Data & Analytics | Business Analyst | BI & Dashboard Developer
 
-I turn business data into actionable insights through data analysis, 
-interactive dashboards, business intelligence, automation, and forecasting.
+I am a Data Analyst and Data & Analytics professional focused on business intelligence, data visualization, analytical solutions, and data-driven decision-making. I turn business data into actionable insights through data analysis, interactive dashboards, business intelligence, automation, and forecasting. My work combines business understanding with analytical and technical skills to transform raw data into clear, decision-ready solutions.
 
-My work combines business understanding with analytical and technical skills
-to transform raw data into clear, decision-ready solutions.
-
-🌐 **[Portfolio](https://parvesbappi.com)**  
-💼 **[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/md--parves-ali/))**  
-📧 **[Email](mailto:hello@parvesbappi.com)**
-
----
-
-## 👨‍💻 Who I Am
-
-I am a Business Analyst and Data & Analytics professional focused on
-business intelligence, data visualization, analytical solutions, and
-data-driven decision-making.
-
-I work across the analytics lifecycle — from data preparation and
-exploration to KPI development, visualization, forecasting, and
-business reporting.
-
-I am also developing my skills in Python, SQL, machine learning,
-and data engineering to build more advanced data solutions.
+I work across the analytics lifecycle — from data preparation and exploration to KPI development, visualization, forecasting, and business reporting. I am also developing my skills in Python, SQL, machine learning, and data engineering to build more advanced data solutions.
 
 ---
 
@@ -97,44 +76,16 @@ Use technology and automation to improve reporting and analytical workflows.
 # 🧠 Core Skills
 
 ### Data Analytics
-- Exploratory Data Analysis
-- Data Cleaning & Transformation
-- Statistical Analysis
-- Business Analysis
-- KPI Development
-- Data Interpretation
+-Exploratory Data Analysis, Data Cleaning & Transformation, Statistical Analysis, Business Analysis, KPI Development, Data Interpretation
 
 ### Business Intelligence
-- Interactive Dashboard Development
-- Management Reporting
-- Business Performance Analysis
-- Data Visualization
-- Data Storytelling
-- Decision Support
+- Interactive Dashboard Development, Management Reporting, Business Performance Analysis, Data Visualization, Data Storytelling, Decision Support
 
 ### Forecasting & Predictive Analytics
-- Time-Series Forecasting
-- Predictive Modeling
-- Feature Engineering
-- Model Evaluation
-- Forecast Visualization
+- Time-Series Forecasting, Predictive Modeling, Feature Engineering, Model Evaluation, Forecast Visualization
 
 ### Business & Supply Chain Analytics
-- Sales Analytics
-- Inventory Analytics
-- Production Analytics
-- Supply Chain Analytics
-- Performance Analytics
-- Operational Reporting
-
-### Technical
-- Python
-- SQL
-- Excel
-- Power BI
-- Tableau
-- Looker Studio
-- Git & GitHub
+- Sales Analytics, Inventory Analytics, Production Analytics, Supply Chain Analytics, Performance Analytics, Operational Reporting
 
 ---
 
@@ -160,47 +111,13 @@ experiments.
 Solutions focused on sales, inventory, production, forecasting,
 and operational decision-making.
 
----
-
-# 🌐 Where You Can Find Me
-
-<p>
-<a href="https://parvesbappi.com">
-<img src="https://img.shields.io/badge/Portfolio-parvesbappi.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hello@parvesbappi.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/parves-bappi">
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=parves-bappi&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parves-bappi&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm interested in opportunities involving:
 **Data Analytics • Business Intelligence • Dashboard Development •
 Forecasting • Business Analysis • Data Solutions**
 
-📧 **hello@parvesbappi.com**
-🌐 **[parvesbappi.com](https://parvesbappi.com)**
+🌐 **[Portfolio](https://parvesbappi.com)**  
+💼 **[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/md--parves-ali/))**  
+📧 **[Email](mailto:hello@parvesbappi.com)**
+
