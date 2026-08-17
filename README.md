@@ -76,7 +76,7 @@ Use technology and automation to improve reporting and analytical workflows.
 # 🧠 Core Skills
 
 ### Data Analytics
--Exploratory Data Analysis, Data Cleaning & Transformation, Statistical Analysis, Business Analysis, KPI Development, Data Interpretation
+- Exploratory Data Analysis, Data Cleaning & Transformation, Statistical Analysis, Business Analysis, KPI Development, Data Interpretation
 
 ### Business Intelligence
 - Interactive Dashboard Development, Management Reporting, Business Performance Analysis, Data Visualization, Data Storytelling, Decision Support
@@ -118,6 +118,6 @@ I'm interested in opportunities involving:
 Forecasting • Business Analysis • Data Solutions**
 
 🌐 **[Portfolio](https://parvesbappi.com)**  
-💼 **[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/md--parves-ali/))**  
+💼 **[LinkedIn](https://www.linkedin.com/in/md--parves-ali/)**  
 📧 **[Email](mailto:hello@parvesbappi.com)**
 
