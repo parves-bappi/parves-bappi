@@ -70,10 +70,16 @@ Most days I'm somewhere between a SQL query, a Power BI report, and an n8n workf
 - **Python Automation** — scripts and pipelines that remove manual reporting work
 
 <br>
-The road ahead
-[■■■■■■■■■■] Data Analysis & BI        — where I've been
-[■■■■■■□□□□] Python & SQL for pipelines — where I am
-[■■□□□□□□□□] Airflow · dbt · warehousing — where I'm headed
+🧭 Roadmap: Analyst → Engineer
+<div align="center">
+
+</div>
+Stage	Focus	Status
+
+01	Data Analysis & BI	✅ Where I've been  
+02	Python & SQL for pipelines	🚧 Where I am now  
+03	Airflow · dbt · Cloud Warehousing	🎯 Where I'm headed  
+
 
 Still doing the analyst work — someone has to keep the dashboards honest — but everything I pick up next is aimed at one target: Data Engineer.
 
