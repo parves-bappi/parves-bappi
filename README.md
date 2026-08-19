@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Manrope&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=Data+Analyst+%7C+Business+Intelligence;Dashboard+Developer+%E2%80%A2+Power+BI+%2B+SQL;Forecasting+%26+Predictive+Analytics;Automating+reports+so+humans+don't+have+to" alt="typing banner" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-parvesbappi.com-2563EB?style=flat-square)](https://parvesbappi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md--parves-ali/)
-[![Email](https://img.shields.io/badge/Email-hello%40parvesbappi.com-06B6D4?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@parvesbappi.com)
-
 </div>
 
 <br>
@@ -74,11 +70,12 @@ Most days I'm somewhere between a SQL query, a Power BI report, and an n8n workf
 - **Python Automation** — scripts and pipelines that remove manual reporting work
 
 <br>
+The road ahead
+[■■■■■■■■■■] Data Analysis & BI        — where I've been
+[■■■■■■□□□□] Python & SQL for pipelines — where I am
+[■■□□□□□□□□] Airflow · dbt · warehousing — where I'm headed
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=parves-bappi&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=06B6D4" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parves-bappi&hide_border=true&background=FFFFFF&ring=2563EB&fire=06B6D4" height="165"/>
-</div>
+Still doing the analyst work — someone has to keep the dashboards honest — but everything I pick up next is aimed at one target: Data Engineer.
 
 <br>
 
@@ -88,8 +85,9 @@ Open to conversations around **Data Analytics · Business Intelligence · Dashbo
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-parvesbappi.com-2563EB?style=for-the-badge)](https://parvesbappi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Parves_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md--parves-ali/)
-[![Email](https://img.shields.io/badge/Email-hello@parvesbappi.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@parvesbappi.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-parvesbappi.com-2563EB?style=flat-square)](https://parvesbappi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md--parves-ali/)
+[![Email](https://img.shields.io/badge/Email-hello%40parvesbappi.com-06B6D4?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@parvesbappi.com)
+
 
 </div>
