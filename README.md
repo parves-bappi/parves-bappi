@@ -1,123 +1,95 @@
-# 👋 Hi, I'm Parves Bappi !!
+<div align="center">
 
-### Data & Analytics | Business Analyst | BI & Dashboard Developer
+# Parves Bappi
 
-I am a Data Analyst and Data & Analytics professional focused on business intelligence, data visualization, analytical solutions, and data-driven decision-making. I turn business data into actionable insights through data analysis, interactive dashboards, business intelligence, automation, and forecasting. My work combines business understanding with analytical and technical skills to transform raw data into clear, decision-ready solutions.
+**I turn raw data into decisions — dashboards, forecasts, and the automation that keeps them running.**
 
-I work across the analytics lifecycle — from data preparation and exploration to KPI development, visualization, forecasting, and business reporting. I am also developing my skills in Python, SQL, machine learning, and data engineering to build more advanced data solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=Data+Analyst+%7C+Business+Intelligence;Dashboard+Developer+%E2%80%A2+Power+BI+%2B+SQL;Forecasting+%26+Predictive+Analytics;Automating+reports+so+humans+don't+have+to" alt="typing banner" />
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-parvesbappi.com-2563EB?style=flat-square)](https://parvesbappi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md--parves-ali/)
+[![Email](https://img.shields.io/badge/Email-hello%40parvesbappi.com-06B6D4?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@parvesbappi.com)
 
-## 🚀 What I Do
+</div>
 
-📊 **Data Analysis**  
-Transform raw data into meaningful business insights.
+<br>
 
-📈 **Business Intelligence & Dashboards**  
-Build interactive dashboards and KPI reporting solutions.
+## About
 
-🔄 **Data Preparation & Transformation**  
-Clean, structure, transform, and prepare data for analysis.
+I'm a Data Analyst working at the intersection of **business and analytics** — currently building KPI dashboards, sales automation, and forecasting models for a regional FMCG operation. My background is in business administration, so I care as much about *why a number moved* as I do about the query that pulled it.
 
-💼 **Business & Operational Analytics**  
-Analyze sales, performance, inventory, supply chain, and other
-business processes.
+Most days I'm somewhere between a SQL query, a Power BI report, and an n8n workflow trying to make a recurring report stop being recurring.
 
-🔮 **Forecasting & Predictive Analytics**  
-Develop forecasting and predictive models to support planning
-and decision-making.
+<br>
 
-⚙️ **Analytics Automation**  
-Use technology and automation to improve reporting and analytical workflows.
+## Where I spend my time
 
----
+| Area | What that looks like |
+|---|---|
+| 📊 **Dashboards & BI** | KPI trees, exec-facing reports, regional performance breakdowns in Power BI / Looker Studio |
+| 🔮 **Forecasting** | Demand & stock forecasting with Prophet and XGBoost, built for planning teams, not just notebooks |
+| ⚙️ **Automation** | Make.com / n8n pipelines that move data between systems without a human copy-pasting Excel |
+| 🧹 **Data prep** | Cleaning and structuring messy operational data so the analysis on top of it can be trusted |
+| 🤖 **AI-assisted analysis** | Wiring LLMs into reporting workflows to speed up insight generation |
 
-# 🛠️ Skills & Technologies
+<br>
 
-## 📊 Business Intelligence & Visualization
+## Toolbox
 
-<p>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 💻 Programming & Data
+**Analysis & BI**
+<br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+**Data & Code**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
-## 📈 Analytics & Modeling
+</td>
+<td valign="top" width="50%">
 
-<p>
-<img src="https://img.shields.io/badge/Forecasting-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistical_Analysis-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Visualization-2E8B57?style=for-the-badge"/>
-</p>
+**Forecasting & ML**
+<br>
+<img src="https://img.shields.io/badge/Prophet-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-## 🗄️ Data & Engineering
+**Automation & Tooling**
+<br>
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=flat-square"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-<p>
-<img src="https://img.shields.io/badge/Data_Cleaning-5C6BC0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Transformation-00897B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Pipelines-795548?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-# 🧠 Core Skills
+## What's in these repos
 
-### Data Analytics
-- Exploratory Data Analysis, Data Cleaning & Transformation, Statistical Analysis, Business Analysis, KPI Development, Data Interpretation
+- **BI & Dashboards** — interactive reporting built in Power BI, Tableau, and Looker Studio
+- **Forecasting & ML** — time-series and predictive models for demand and risk
+- **SQL & Data** — querying, transformation, and database-oriented projects
+- **Business & Supply Chain Analytics** — sales, inventory, and production-focused analysis
+- **Python Automation** — scripts and pipelines that remove manual reporting work
 
-### Business Intelligence
-- Interactive Dashboard Development, Management Reporting, Business Performance Analysis, Data Visualization, Data Storytelling, Decision Support
+<br>
 
-### Forecasting & Predictive Analytics
-- Time-Series Forecasting, Predictive Modeling, Feature Engineering, Model Evaluation, Forecast Visualization
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=parves-bappi&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=06B6D4" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parves-bappi&hide_border=true&background=FFFFFF&ring=2563EB&fire=06B6D4" height="165"/>
+</div>
 
-### Business & Supply Chain Analytics
-- Sales Analytics, Inventory Analytics, Production Analytics, Supply Chain Analytics, Performance Analytics, Operational Reporting
+<br>
 
----
+## Let's connect
 
-# 💡 What I've Built
+Open to conversations around **Data Analytics · Business Intelligence · Dashboard Development · Forecasting**.
 
-My GitHub repositories showcase practical solutions across:
+<div align="center">
 
-📊 **Business Intelligence & Dashboards**  
-Interactive reporting and visualization solutions using Excel,
-Power BI, Tableau, and Looker Studio.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-parvesbappi.com-2563EB?style=for-the-badge)](https://parvesbappi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Parves_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md--parves-ali/)
+[![Email](https://img.shields.io/badge/Email-hello@parvesbappi.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@parvesbappi.com)
 
-🐍 **Python & Data Analytics**  
-Data analysis, visualization, automation, and analytical programming.
-
-🗄️ **SQL & Data**  
-Data querying, transformation, analysis, and database-oriented projects.
-
-🔮 **Forecasting & Machine Learning**  
-Forecasting models, predictive analytics, and machine learning
-experiments.
-
-📦 **Business & Supply Chain Analytics**  
-Solutions focused on sales, inventory, production, forecasting,
-and operational decision-making.
-
-## 📫 Let's Connect
-
-I'm interested in opportunities involving:
-**Data Analytics • Business Intelligence • Dashboard Development •
-Forecasting • Business Analysis • Data Solutions**
-
-🌐 **[Portfolio](https://parvesbappi.com)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/md--parves-ali/)**  
-📧 **[Email](mailto:hello@parvesbappi.com)**
-
+</div>
